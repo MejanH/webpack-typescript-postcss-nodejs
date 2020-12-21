@@ -6,7 +6,7 @@ Setuping the initial project won't take that much. Also routing can be done with
 
 **For Components, There is a new boy borned in called webcomponent for vanilla javascript with Plyfill.**
 
-But still needs to be matured which will be hard work to implement. So, it makes that companies moving to frontend framework.
+But still needs to be matured which will be hard work to implement. So, it makes sense that why big companies moving to frontend framework.
 
 ## So, Two Solutions for faster Development with Javscript. Framework or WebAssembly.
 

@@ -2,7 +2,7 @@
 
 The goal was to see how much time it would take to create a frontend without any framework.
 
-Setuping the initial project won't take that much. Also routing can be done with nodejs 'fs.readDirSync`and`html-webpack-plugin`. But still there are something needs to be done manually like adding support for urls without `.html` exntension in the end, Adding Layout and Components, etc.
+Setuping the initial project won't take that much. Also routing can be done with nodejs `fs.readDirSync`and`html-webpack-plugin`. But still there are something needs to be done manually like adding support for urls without `.html` exntension in the end, Adding Layout and Components, etc.
 
 **For Components, There is a new boy borned in called webcomponent for vanilla javascript with Plyfill.**
 
